@@ -1,1 +1,1 @@
-# cifar-10-prediction
+# Cifar-10-prediction
